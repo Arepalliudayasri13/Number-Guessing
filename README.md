@@ -67,6 +67,4 @@ Key components include:
 * `endGame()` handles win/loss scenarios and post-game actions.
 * `updateHistory()` ensures the guess log is always current.
 
-## License
 
-*(Consider adding a license, e.g., MIT, Apache 2.0, etc.)*
